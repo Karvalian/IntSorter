@@ -16,4 +16,8 @@ int main(){
 	for(int a : cool){
 		cout << a << endl;
 	}
+	cout << "Press any key to exit." << endl;
+	int kk;
+	cin >> kk;
+
 }
